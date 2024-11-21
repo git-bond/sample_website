@@ -1,0 +1,45 @@
+.nav-item {
+  margin-left: 10px;
+  text-decoration: none;
+  color: blue;
+}
+.nav-menu {
+    text-align: right;
+}
+.logo-link {
+    text-decoration: none;
+    display: inline-block;
+    vertical-align: middle; 
+}
+.block-quote {
+    padding: 2px 20px;
+    background-color: #eee;
+}
+.book-header {
+    text-align: center;
+    margin: 0 0 80px;
+}
+.img-link {
+    display: block; 
+    margin: 0 auto;
+}
+.book-report {
+    width: 500px;
+    margin: 20px auto;
+    padding: 70px;
+    background-color: #fafafa;
+}
+.book-cover {
+    float: left;
+    margin-right: 40px;
+}
+.moby-dick-block-quote {
+    font-style: italic;
+    font-size: 20px;
+}
+.moby-dick-span-quote {
+    font-style: normal;
+    font-size: 24px;
+    font-weight: bold;
+    color: red;
+}
